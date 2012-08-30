@@ -216,7 +216,7 @@ on boot
     chown radio radio  sys/devices/virtual/aclset/switch_aclset/aclset_file_cmd
     chown radio system  sys/devices/virtual/sec/sec_lcd/lcd_power
     chown radio system  sys/devices/virtual/sec/sec_lcd/lcdtype_file_cmd
-    chown radio system  sys/devices/virtual/misc/melfase_touchkey/enable_disable
+    chown radio system  sys/devices/virtual/misc/melfas_touchkey/enable_disable
     chown radio system  sys/devices/virtual/misc/melfas_touchkey/brightness
     chown radio system  sys/devices/virtual/misc/melfas_touchkey/touch_update
     chown radio system  sys/devices/virtual/misc/melfas_touchkey/touch_version
